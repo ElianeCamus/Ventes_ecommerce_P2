@@ -3,7 +3,11 @@
 ## Contexte et objectifs
 
 ![Logo GRANDMARCHE](P2_logo_GRANDMARCHE.jpg)  
-xx
+Grand Marché est une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.  
+
+En tant que Data Analyst au service Marketing du Grand Marché, j'ai été confiée la présentation des chiffres clés généraux et la préparation du rapport des données spécifiques aux clients affiliés sur Excel.  
+
+Le rapport mensuel des actions marketing de mon équipe comporte une analyse des chiffres du mois précédent (ventes, chiffre d’affaires, prix des produits, etc.). Mon rôle est de sélectionner et d'analyser les graphiques les plus pertinents afin de les présenter à la direction de l'entreprise. Je dois notamment analyser la baisse du chiffre d'affaires et évaluer comment la situation va évoluer dans les prochains mois puis proposer une suggestion d’axe stratégique.  
 
 ## Soft Skills
 - Sélection judicieuse du type de graphique en fonction de la donnée et du message  
