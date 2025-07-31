@@ -2,6 +2,7 @@
 
 ## Contexte et objectifs
 
+![Logo GRANDMARCHE](P2_logo_GRANDMARCHE.jpg)  
 xx
 
 ## Soft Skills
